@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\kipri\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "C:\\Users\\kipri\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "terminal.integrated.automationShell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
 }
