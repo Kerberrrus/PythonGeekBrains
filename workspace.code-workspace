@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "PythonGeekBrains",
+			"path": "PythonGeekBrains"
+		}
+	],
+	"settings": {
+		"terminal.integrated.automationShell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+	}
+}
